@@ -1,2 +1,2 @@
-# shopping-cart-express-mongoDB
-Using Express, Mongoose
+# shopping-cart-express-mongoDB-Typescript
+Using Express, Mongoose, Typescript
